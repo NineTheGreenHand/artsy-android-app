@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.hw9.artsyapp.ShowMoreActivity">
+
+    <item
+        android:id="@+id/action_favorite"
+        android:icon="@drawable/start_outline"
+        android:title="@string/app_name"
+        app:showAsAction="ifRoom|collapseActionView" />
+
+</menu>

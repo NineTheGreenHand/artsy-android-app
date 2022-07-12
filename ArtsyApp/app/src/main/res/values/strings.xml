@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ArtistSearch</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_hint">Search…</string>
+    <string name="powered">Powered by Artsy</string>
+    <string name="no_result">No Result Found</string>
+    <string name="no_artwork">No Artwork Available</string>
+    <string name="no_category">No Category Available</string>
+    <string name="load">loading…</string>
+    <string name="details">DETAILS</string>
+    <string name="artwork">ARTWORK</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="name">Name</string>
+    <string name="nationality">Nationality</string>
+    <string name="birthday">Birthday</string>
+    <string name="deathday">Deathday</string>
+    <string name="biography">Biography</string>
+    <string name="favorites">FAVORITES</string>
+    <string name="description">Description</string>
+    <string name="category">Category</string>
+</resources>
